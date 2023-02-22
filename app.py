@@ -83,7 +83,7 @@ if selected == 'Predection Page':
     col7, col8 = st.columns(2)
 
     with col7:
-        select_age = st.number_input('Enter Age')
+        select_age = st.slider('',min_value = 20,max_value = 100,step = 1,value = 40)
         
     with col8:
         select_marital_status = st.selectbox('Select Marital Status',sorted(marital_status))
