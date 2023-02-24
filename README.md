@@ -36,7 +36,7 @@ learning algorithms that’s best fit for the above case.
 ![11](https://user-images.githubusercontent.com/123532199/221029441-80ac3ab5-df6a-4de7-8102-958c91d53acc.jpg)
 
 
-# Prject Snippet:
+# Project Snippet:
 ![221](https://user-images.githubusercontent.com/123532199/221029659-78d6c091-c96e-4f77-9e9b-91978cb91af5.jpg)
 
 
