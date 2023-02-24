@@ -10,7 +10,7 @@ This data was extracted from the 1994 Census bureau database by Ronny Kohavi and
 # Problem Statement:
 The Goal is to predict whether a person has an income of more than 50K a year or not.
 This is basically a binary classification problem where a person is classified into the
->50K group or <=50K group.
+ >50K group or <=50K group.
 
 
 
